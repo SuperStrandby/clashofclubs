@@ -1,0 +1,103 @@
+body {
+    height: 100%;
+    background-image: url("../img/basic-background.jpg");
+
+}
+h3 {
+    color: white;
+}
+a:hover{
+    color:#993030;
+    text-decoration:none;
+}
+#user-panel {
+    padding-top: 10px;
+    background: black;
+}
+.white {
+    color: white;
+}
+/*Footer*/
+.footer {
+    height: 400px;
+    border-top: 1px solid #993030;
+    background: rgba(0, 0, 0, 0.65);
+    display: block;
+    clear: both;
+}
+/*table*/
+.table {
+}
+.table td {
+    cursor: pointer;
+}
+thead > tr:nth-child(1) > th:nth-child(1) {
+    background-color: #993030;
+    color: white;
+}
+#ebet-top #loginbar {
+    background: black;
+}
+.loginbar-margin {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.design {
+    min-height: 800px;
+    background-color: #e3e3e3;
+    padding-top: 50px;
+}
+/* Logo - midten af topbaren*/
+#ebet-top .logo {
+    background: white;
+    border-top: 2px solid #993030;
+    border-bottom: 2px solid #993030;
+}
+.logos {
+    background-image: url("../img/ebet-header.png");
+}
+.logos img {
+    margin-left: 17.5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*Left sidebar*/
+
+.ebet-nav {
+    margin-top: 2px;
+    width: 280px;
+    height: 60px;
+}
+#button1 {
+    background:none!important;
+    border:none;
+    padding: 0!important;
+    font: inherit;
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+/*Left sidebar*/
+/*Footer*/
+#Footerdiv {
+}
+#Footercenter {
+    text-align: left;
+}
+#Footerleft {
+    text-align: left;
+}
+#Footerright {
+    text-align: left;
+}
+.menu {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+#logo-admin {
+    margin-left: 180px;
+}
+
+
